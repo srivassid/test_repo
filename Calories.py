@@ -4,7 +4,7 @@ import datetime
 
 # #readAllFiles
 all_files = glob.glob("*.csv")
-df = pd.concat((pd.read_csv(f) for f in all_files))QWEADWEFwEF
+df = pd.concat((pd.read_csv(f) for f in all_files))
 # # df = pd.read_excel("em290301_bike.xlsx",sep=";")
 # print(df.head())
 # print(df.shape)
@@ -24,7 +24,6 @@ df_1 = df_1[[0,11,12]]
 #asdsDFSDFadsasfdsadf\
 adsfsdfsdfsdf
 # #sort by values
-a<dsfsdfgadsfgdafg
 SDGSRAFGsfgsdfgasfg
 df_1[0] = pd.to_datetime(df_1[0])#,format="%d-%m-%Y %H:%M:%S")
 df_1 = df_1.sort_values(by=[0],ascending=True)
