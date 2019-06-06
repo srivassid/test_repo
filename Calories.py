@@ -21,7 +21,8 @@ df_1 = df['concat'].str.split(';', 13, expand=True)
 df_1 = df_1[[0,11,12]]
 # # df_1= df_1[df_1[11] != 0]
 # # df_1= df_1[df_1[12] != 0]
-#asdsDFSDF
+#asdsDFSDFadsasfdsadf\
+adsfsdfsdfsdf
 # #sort by values
 a<dsfsdfgadsfgdafg
 SDGSRAFGsfgsdfgasfg
