@@ -4,7 +4,7 @@ import datetime
 
 # #readAllFiles
 all_files = glob.glob("*.csv")
-df = pd.concat((pd.read_csv(f) for f in all_files))
+df = pd.concat((pd.read_csv(f) for f in all_files))QWEADWEFwEF
 # # df = pd.read_excel("em290301_bike.xlsx",sep=";")
 # print(df.head())
 # print(df.shape)
