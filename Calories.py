@@ -23,6 +23,7 @@ df_1 = df_1[[0,11,12]]
 # # df_1= df_1[df_1[12] != 0]
 #asdsDFSDF
 # #sort by values
+a<dsfsdfgadsfgdafg
 SDGSRAFGsfgsdfgasfg
 df_1[0] = pd.to_datetime(df_1[0])#,format="%d-%m-%Y %H:%M:%S")
 df_1 = df_1.sort_values(by=[0],ascending=True)
