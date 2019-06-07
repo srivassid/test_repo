@@ -27,6 +27,7 @@ adsfsdfsdfsdf
 SDGSRAFGsfgsdfgasfg
 df_1[0] = pd.to_datetime(df_1[0])#,format="%d-%m-%Y %H:%M:%S")
 df_1 = df_1.sort_values(by=[0],ascending=True)
+aspdkmswdwkpfnmapdfmpkdasmf
 
 calories_list = []
 
